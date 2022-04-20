@@ -1,0 +1,71 @@
+body {
+  background-color: #cbe8d650;
+}
+hr {
+  color: #6e7f7035;
+  width: 250px;
+}
+img {
+  height: 200px;
+}
+h1{
+  font-family: 'DotGothic16', sans-serif;
+}
+h3 {
+  color: #6e7f70;
+}
+nav{
+  display: block;
+}
+a {
+  text-decoration: none !important;
+}
+.nav_bar {
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 100% !important;
+    height: 100% !important;
+  }
+.name_text{
+  color: #6e7f70;
+  font-family: 'DotGothic16', sans-serif;
+  font-size: 3rem;
+  margin: 50px auto 0 auto;
+  line-height: 1;
+}
+.finn_title{
+  color: #6e7f70;
+  font-family: 'DotGothic16', sans-serif;
+  font-size: 1.25rem;
+  margin: 50px auto 0 auto;
+  padding-right: 50px;
+  line-height: 1;
+}
+.fake-item{
+  padding: 25px;
+}
+.nav_buttons{
+  color: #6e7f70;
+  font-family: 'DotGothic16', sans-serif;
+  font-size: 1.5rem;
+  line-height: 2;
+  padding-left: 25px;
+}
+.nav_bar a:hover {
+  color: #252a25;
+  text-decoration: line-through;
+}
+.separator{
+  padding-left: 25px;
+}
+.contact-table{
+  margin: 0 auto 0 auto;
+}
+.phones-table{
+  padding: 75px;
+}
+.contact-form{
+  padding-left: 32%;
+  padding-right: 32%;
+}
